@@ -41,7 +41,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any queries or further information, please contact [Your Name or Email].
+For any queries or further information, please contact [ritikdutta.com](ritikdutta.com).
 
 ---
 
